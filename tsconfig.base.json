@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@booking/sdk": ["libs/sdk/src/index.ts"]
+      "@booking/sdk": ["libs/sdk/src/index.ts"],
+      "@booking/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
